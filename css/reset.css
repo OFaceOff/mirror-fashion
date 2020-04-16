@@ -1,65 +1,45 @@
-.menu-opcoes ul li	{
-    display:	inline;
-    margin-left: 20px;
-}
+html, body, div, span, applet, object, iframe,
+h4, h5, h6, p, blockquote, pre,
+a, p, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {	
+	padding: 0;
+	font: inherit;
+	font-size: 100%;
+	vertical-align: baseline;
+/*	width: auto;
+/*	margin: 0;
+	border: 0;
 
-.sacola {
-	padding-top: 8px;
-}
+{HTML5 display-role reset for older browsers 
 
-.container {
-    margin: 0 auto;
-    width: 940px;
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
 }
-
-header {
-    position: relative;
+body {
+	line-height: 1;
 }
-
-.busca,
-.menu-departamentos	{
-	background-color: #DCDCDC;
-	font-weight:	bold;
-	text-transform:	uppercase;
-	margin-right: 10px;
-	width: 230px;
+ol, ul {
+	list-style: none;
 }
-
-.busca h2,
-.busca form,
-.menu-departamentos h2	{
-	margin: 10px;
+blockquote, q {
+	quotes: none;
 }
-
-.menu-departamentos li	{
-	background-color:	white;
-	margin-bottom: 1px;
-	padding: 5px 10px;
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
 }
-
-.menu-departamentos a	{
-	color: #333333;
-	text-decoration:	none;
-}
-
-.busca input[type=search]	{
-    width: 170px;
-}
-
-.busca,
-.menu-departamentos	{
-	float:	left;
-}
-
-.menu-departamentos	{
-	clear:	left;
-}
-
-.destaque	{
-    margin-top: 10px;
-}
-
-.menu-departamentos	{
-    margin-top: 10px;
-    padding-bottom: 10px;
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
 }

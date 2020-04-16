@@ -1,2 +1,2 @@
 # mirror-fashion
-Projeto do site Mirror Fashion
+projeto do site mirror fashion
