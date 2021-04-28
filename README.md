@@ -1,4 +1,4 @@
 # Mirror Fashion
-:womans_hat: Projeto de site Mirror Fashion.<br>
-:dress: :handbag:<br>
+:womans_hat: <br>
+:dress: :handbag: Projeto de site Mirror Fashion.<br> 
 :high_heel:
